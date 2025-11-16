@@ -5,10 +5,10 @@ Use the data in [this repository](https://github.com/probjects/ewf-database).
 
 Produce a streamlit app to show some aspect of the data to the user.
 
-Submit a pull request to **this** repository with an edit to this README containing a link to your app. Include a notebook (and csv) if you've used one.
+Submit a pull request to **this** repository with an edit to this README containing a link to your app and any other details about it. Include a notebook (and csv) in the pull request if you've used one but put your group name on any files you upload.
 
-GROUP 1. Our app is [here](someurl)
+GROUP A. Our app is [here](some_url)
 
-GROUP 2. Our app is [here](someurl)
+GROUP B. Our app is [here](some_url)
 
 etc.
